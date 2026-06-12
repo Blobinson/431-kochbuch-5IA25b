@@ -1,0 +1,15 @@
+{{- define "main" }}
+
+<header class="page-head">
+  <p class="page-head__kicker">✦ Die Sammlung</p>
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}<p>{{ . }}</p>{{ end }}
+</header>
+
+<div class="recipes-grid">
+  {{- range .Pages.ByDate.Reverse }}
+  {{- partial "recipe-card.html" . }}
+  {{- end }}
+</div>
+
+{{- end }}

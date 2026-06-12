@@ -1,0 +1,68 @@
+baseURL = 'https://impromptu-pixel.github.io/hugo_test/'
+defaultContentLanguage = 'de'
+title = 'Unser Gemeinschaftskochbuch'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInTermList = true
+  UseHugoToc = true
+  description = 'Ein gemeinschaftliches Kochbuch — Rezepte mit Liebe geteilt.'
+  author = 'Gemeinschaft'
+
+  mainSections = ['recipes']
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com'
+
+[params.assets]
+  favicon = '/favicon.svg'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = 'dracula'
+    lineNos = false
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  contributor = 'contributors'
+
+[menus]
+  [[menus.main]]
+    identifier = 'recipes'
+    name = 'Rezepte'
+    url = '/recipes/'
+    weight = 10
+  [[menus.main]]
+    identifier = 'categories'
+    name = 'Kategorien'
+    url = '/categories/'
+    weight = 20
+  [[menus.main]]
+    identifier = 'contributors'
+    name = 'Mitwirkende'
+    url = '/contributors/'
+    weight = 30
+  [[menus.main]]
+    identifier = 'tags'
+    name = 'Schlagworte'
+    url = '/tags/'
+    weight = 40
+
+[outputs]
+  home = ['HTML', 'RSS']
+
+[module]
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
