@@ -1,4 +1,4 @@
-
+---
 # Basis
 
 title: "Saftige Schokoladen-Brownies"
@@ -24,35 +24,35 @@ cook_time: "25 Min."
 
 ingredients:
 
-* "200g dunkle Schokolade, grob gehackt"
-* "150g Butter"
-* "180g Zucker"
-* "1 Päckchen Vanillezucker"
-* "3 Eier"
-* "120g Mehl"
-* "30g Kakaopulver"
-* "1 Prise Salz"
-* "1 TL Backpulver"
-* "100g Schokoladenstückchen"
-* "80g Baumnüsse, grob gehackt"
-* "1 TL Butter zum Einfetten der Backform"
-* "Puderzucker zum Garnieren"
-* "Vanilleglace als Beilage"
-* "Frische Beeren als Beilage"
+- "200g dunkle Schokolade, grob gehackt"
+- "150g Butter"
+- "180g Zucker"
+- "1 Päckchen Vanillezucker"
+- "3 Eier"
+- "120g Mehl"
+- "30g Kakaopulver"
+- "1 Prise Salz"
+- "1 TL Backpulver"
+- "100g Schokoladenstückchen"
+- "80g Baumnüsse, grob gehackt"
+- "1 TL Butter zum Einfetten der Backform"
+- "Puderzucker zum Garnieren"
+- "Vanilleglace als Beilage"
+- "Frische Beeren als Beilage"
 
 # ── Zubereitung ──────────────────────────────────────────
 
 Instructions:
 
-* "Den Backofen auf 180 °C Ober- und Unterhitze vorheizen. Eine rechteckige Backform einfetten oder mit Backpapier auslegen."
-* "Die dunkle Schokolade zusammen mit der Butter in einer hitzebeständigen Schüssel über einem Wasserbad langsam schmelzen. Anschliessend leicht abkühlen lassen."
-* "In einer grossen Schüssel Zucker, Vanillezucker und Eier ca. 3 Minuten verrühren, bis die Masse etwas heller und cremig ist."
-* "Die geschmolzene Schokoladen-Butter-Mischung langsam zu den Eiern giessen und gut unterrühren."
-* "Mehl, Kakaopulver, Salz und Backpulver in einer separaten Schüssel vermischen."
-* "Die trockenen Zutaten zur Schokoladenmasse geben und nur so lange verrühren, bis ein gleichmässiger Teig entsteht."
-* "Schokoladenstückchen und gehackte Baumnüsse vorsichtig unterheben."
-* "Den Teig gleichmässig in der vorbereiteten Backform verteilen und ca. 25 Minuten backen. Die Brownies sollten innen noch leicht feucht sein."
-* "Die Brownies vollständig abkühlen lassen, in Stücke schneiden und nach Wunsch mit Puderzucker, Vanilleglace und frischen Beeren servieren."
+- "Den Backofen auf 180 °C Ober- und Unterhitze vorheizen. Eine rechteckige Backform einfetten oder mit Backpapier auslegen."
+- "Die dunkle Schokolade zusammen mit der Butter in einer hitzebeständigen Schüssel über einem Wasserbad langsam schmelzen. Anschliessend leicht abkühlen lassen."
+- "In einer grossen Schüssel Zucker, Vanillezucker und Eier ca. 3 Minuten verrühren, bis die Masse etwas heller und cremig ist."
+- "Die geschmolzene Schokoladen-Butter-Mischung langsam zu den Eiern giessen und gut unterrühren."
+- "Mehl, Kakaopulver, Salz und Backpulver in einer separaten Schüssel vermischen."
+- "Die trockenen Zutaten zur Schokoladenmasse geben und nur so lange verrühren, bis ein gleichmässiger Teig entsteht."
+- "Schokoladenstückchen und gehackte Baumnüsse vorsichtig unterheben."
+- "Den Teig gleichmässig in der vorbereiteten Backform verteilen und ca. 25 Minuten backen. Die Brownies sollten innen noch leicht feucht sein."
+- "Die Brownies vollständig abkühlen lassen, in Stücke schneiden und nach Wunsch mit Puderzucker, Vanilleglace und frischen Beeren servieren."
 
 ---
 
@@ -64,12 +64,12 @@ Dies ist meine einfache Version klassischer Schokoladen-Brownies. Sie sind ausse
 
 ## Tipps
 
-* Die Brownies nicht zu lange backen, damit sie innen schön saftig bleiben.
-* Für einen besonders intensiven Geschmack dunkle Schokolade mit mindestens 70 % Kakao verwenden.
-* Die Baumnüsse können weggelassen oder durch Haselnüsse ersetzt werden.
+- Die Brownies nicht zu lange backen, damit sie innen schön saftig bleiben.
+- Für einen besonders intensiven Geschmack dunkle Schokolade mit mindestens 70 % Kakao verwenden.
+- Die Baumnüsse können weggelassen oder durch Haselnüsse ersetzt werden.
 
 ## Serviervorschläge
 
-* Eine Kugel Vanilleglace auf dem noch leicht warmen Brownie
-* Etwas geschmolzene Schokolade oder Karamellsosse als Topping
+- Eine Kugel Vanilleglace auf dem noch leicht warmen Brownie
+- Etwas geschmolzene Schokolade oder Karamellsosse als Topping
 
