@@ -42,7 +42,7 @@ instructions:
 
 ## Über dieses Rezept
 
-Der traditionelle Flammkuchen wird eigentlich mit Hefeteig gemacht, aber wenn die Zeit knapp ist, reicht auch ein ganz simpler Backpulver-Teig. Er muss nicht gehen und wird im Ofen extrem kross. Perfekt für den schnellen Verzehr.
+Der traditionelle Flammkuchen wird eigentlich mit Hefeteig gemacht, aber wenn die Zeit knapp ist, reicht auch ein ganz simpler Backpulver-Teig. Er muss nicht ruhen und wird im Ofen extrem kross. Perfekt für den schnellen Verzehr.
 
 ## Tipps
 
