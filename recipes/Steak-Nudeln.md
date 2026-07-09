@@ -10,12 +10,12 @@ image: "images/recipes/Nudeln_mit_steak.png"
 categories: ["Nudeln", "Hauptgericht","Fleisch","Alkoholhaltig"]
 tags: ["rind", "wein", "nicht vegan", "wochentagsessen"]
 contributors: ["Felix Riediker"]
-difficulty: "Medium"
+difficulty: "Mittel"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 4
-prep_time: "10 Min."
-cook_time: "30 Min."
+prep_time: "10 min"
+cook_time: "30 min"
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
