@@ -7,26 +7,26 @@ description: "Der absolute Klassiker aus dem Elsass – hauchdünn, knusprig und
 image: "images/recipes/Flammkuchen.jpg"
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Hauptspeise", "Herzhaft"]
-tags: ["flammkuchen", "Speck", "schnell", "knusprig", "backen"]
-contributors: ["Cedric"]
+tags: ["flammkuchen", "speck", "schnell", "knusprig", "backen"]
+contributors: ["Cedric Häftlinger"]
 difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 2
-prep_time: "15 Min."
-cook_time: "10 Min."
+prep_time: "15 Min"
+cook_time: "10 Min"
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
-  - "250 g Weizenmehl"
+  - "250g Weizenmehl"
   - "1 TL Backpulver"
   - "1 Prise Salz"
   - "2 EL Pflanzenöl (z.B Rapsöl)"
-  - "130 ml Wasser (lauwarm)"
-  - "200 g Schmand (alternativ Crème fraîche)"
+  - "130ml Wasser (lauwarm)"
+  - "200g Schmand (alternativ Crème fraîche)"
   - "1 Prise Muskatnuss"
   - "Pfeffer"
-  - "100 g Speckwürfel"
+  - "100g Speckwürfel"
   - "1 grosse Zwiebel"
 
 # ── Zubereitung ──────────────────────────────────────────
