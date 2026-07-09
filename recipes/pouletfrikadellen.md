@@ -14,8 +14,8 @@ difficulty: "Mittel"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 2
-prep_time: "20 Min."
-cook_time: "15 Min."
+prep_time: "20 min"
+cook_time: "15 min"
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:

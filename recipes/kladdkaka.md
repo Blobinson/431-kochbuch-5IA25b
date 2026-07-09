@@ -12,8 +12,8 @@ contributors: ["Nolan Kolb"]
 difficulty: "Mittel"
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 8
-prep_time: "15-20 Min."
-cook_time: "15-20 Min."
+prep_time: "15-20 min"
+cook_time: "15-20 min"
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
 - "200g Butter"
