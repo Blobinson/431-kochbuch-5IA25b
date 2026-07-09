@@ -46,7 +46,7 @@ Der traditionelle Flammkuchen wird eigentlich mit Hefeteig gemacht, aber wenn di
 
 ## Tipps
 
-- **Blech vorheizen:** Wenn das Backblech schon glühend heiss ist, kriegt der Boden sofort Hitze und wird perfekt knusprig wie aus dem Steinofen.
+- **Blech vorheizen**: Wenn das Backblech schon glühend heiss ist, kriegt der Boden sofort Hitze und wird perfekt knusprig wie aus dem Steinofen.
 - **Dünn, dünner, Flammkuchen:** Scheue dich nicht, den Teig so dünn auszurollen, dass er fast transparent wird.
 - **Keine Umluft:** Umluft trocknet den Belag aus, bevor der Teig kross wird. Ober-/Unterhitze sollte man deshalb bevorzugen.
 
