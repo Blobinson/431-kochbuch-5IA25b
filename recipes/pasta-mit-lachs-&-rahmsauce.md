@@ -8,7 +8,7 @@ image: "images/recipes/pasta-mit-rahmsauce-und-ofenlachs.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Hauptgericht"]
-tags: ["Pasta", "Lachs", "Rahmsauce", "Abendessen"]
+tags: ["pasta", "lachs", "rahmsauce", "abendessen"]
 contributors: ["Latifa Ali"]
 difficulty: "Mittel"
 

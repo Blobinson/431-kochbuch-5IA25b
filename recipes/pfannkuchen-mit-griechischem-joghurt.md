@@ -8,7 +8,7 @@ image: "images/recipes/Pfannkuchen.jpeg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Frühstück", "Dessert"]
-tags: ["Pfannkuchen", "Joghurt", "Früchte", "Honig", "schnell"]
+tags: ["pfannkuchen", "joghurt", "früchte", "honig", "schnell"]
 contributors: ["Roksana Bzdyrak"]
 difficulty: "Einfach"
 

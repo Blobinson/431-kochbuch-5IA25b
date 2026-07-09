@@ -8,7 +8,7 @@ image: "images/recipes/you_tellin_me_a_chicken_fried_this_rice_.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Hauptgericht"]
-tags: ["asiatisch", "Fleisch"]
+tags: ["asiatisch", "fleisch"]
 contributors: ["Tseten Sharlhey"]
 difficulty: "Einfach"
 

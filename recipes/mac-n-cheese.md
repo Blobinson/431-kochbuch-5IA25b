@@ -8,7 +8,7 @@ image: "images/recipes/Mac_N_Cheese.png"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Hauptgericht"]
-tags: ["Käse", "Hauptgericht"]
+tags: ["käse", "hauptgericht"]
 contributors: ["Linus Cavigelli"]
 difficulty: "Einfach" 
 
