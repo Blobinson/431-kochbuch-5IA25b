@@ -1,8 +1,4 @@
 ---
-title: "Mac n' Cheese"
-description: "Mac n' Cheese ist ein Sättigendes, schnelles Gericht. Perfekt für mehrere Personen."
-draft: false
-
 # ── Basis ────────────────────────────────────────────────
 title: "Mac n' Cheese"
 date: 2026-06-18
@@ -36,17 +32,16 @@ instructions:
   - "Optional: Eine Zwiebel würfeln und in Butter rösten. Dies eignet sich hervorragend als Garnierung, um das Gericht abzurunden."
 ---
 
-> «Ideal für Ausflüge. Einfdach Zubereitet, einfach  im transport und es gibt genug Energie für den Tag.» — Linus
+> «Ideal für Ausflüge. Einfach Zubereitet, einfach im Transport und es gibt genug Energie für den Tag.» — Linus
 
 ## Über dieses Rezept
 
-Bei uns gbt es Mac n' Cheese hauptsächlich, wen man viele Gäste hat und nicht mer viel Zeit zum Kochen. Man sollte allerdings nicht unterschätzen, wie sättigend das ganze ist.
+Bei uns gbt es Mac n' Cheese hauptsächlich, wenn man viele Gäste hat und nicht mehr viel Zeit zum Kochen. Man sollte allerdings nicht unterschätzen, wie sättigend das ganze ist.
  
 ## Tipps
 
-- sollte die Masse zu zäh werden, kann man das Ganze mit Milch etwas cremiger machen. Dollte Gegenteil der Fall sein, kann man mit Käse nachhelfen.
+- sollte die Masse zu zäh werden, kann man das Ganze mit Milch etwas cremiger machen. Sollte das Gegenteil der Fall sein, kann man mit Käse nachhelfen.
 
 ## Variationen
 
-- Falls man Kartoffeln über hat, kann man diese Kochen und mit in den Topf geben. Ei bischen wie Älpler-Maggaroni. Schmeckt gut und reduziert Foodwaste.
-Willkommen bei unserer Rezeptsammlung! Jedes Gericht hier wurde von einem Mitglied unserer Gemeinschaft geteilt. Stöbere nach Kategorie, Schlagwort oder Mitwirkendem, um dein nächstes Lieblingsessen zu finden.
+- Falls man Kartoffeln über hat, kann man diese Kochen und mit in den Topf geben. Ein bischen wie Älpler-Maggaroni. Schmeckt gut und reduziert Foodwaste.
