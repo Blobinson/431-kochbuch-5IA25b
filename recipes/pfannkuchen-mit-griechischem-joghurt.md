@@ -49,7 +49,7 @@ instructions:
   - "Die Pfannkuchen einrollen oder zusammenklappen und direkt servieren."
 ---
 
-> «Diese Pfannkuchen sind so weich, dass sogar Montagmorgen kurz nett wirkt.» 
+> «Diese Pfannkuchen sind so weich, dass sogar Montagmorgen kurz nett wirkt.» - Roksana
 
 ## Über dieses Rezept
 

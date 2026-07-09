@@ -41,7 +41,7 @@ instructions:
   - "Direkt aus dem Ofen servieren und nach Belieben mit Reis, Kartoffeln oder frischem Gemüse geniessen."
 ---
 
-> «Wenig Vorbereitung, viel Geschmack, genau so muss Ofenlachs sein.»
+> «Wenig Vorbereitung, viel Geschmack, genau so muss Ofenlachs sein.» - Ranja
 
 ## Über dieses Rezept
 

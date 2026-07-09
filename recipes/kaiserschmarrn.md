@@ -10,7 +10,7 @@ image: "images/recipes/Kaiserschmarrn.jpeg"
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Dessert", "Österreichisch"]
 tags: ["pfannkuchen", "dessert", "österreich", "klassiker", "süssspeise"]
-contributors: ["Rico"]
+contributors: ["Rico Krenn"]
 difficulty: "Mittel"
 
 # ── Eckdaten ─────────────────────────────────────────────

@@ -38,7 +38,7 @@ instructions:
   - "Zum Schluss alles nochmals gut vermischen und kurz weiterbraten. Danach kann das Chicken Fried Rice serviert werden."
 ---
 
-> «Dieses Gericht zeigt, dass man auch mit wenig Zeit, Energie und Geld etwas Warmes und Leckeres kochen kann.» — Tseten Sharlhey
+> «Dieses Gericht zeigt, dass man auch mit wenig Zeit, Energie und Geld etwas Warmes und Leckeres kochen kann.» — Tseten
 
 ## Über dieses Rezept
 

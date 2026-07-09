@@ -42,7 +42,7 @@ instructions:
   - "Die fertigen Waffeln kurz auf einem Kuchengitter ausdampfen lassen und dann – genau wie auf dem Bild image_7bb845.jpg – noch warm mit reichlich Puderzucker bestreuen und geniessen."
 ---
 
-„Frisch, warm und goldbraun sollte der perfekte Snack schmecken.“ — Krithik
+> „Frisch, warm und goldbraun sollte der perfekte Snack schmecken.“ — Krithik
 
 
 

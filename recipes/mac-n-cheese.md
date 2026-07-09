@@ -2,7 +2,7 @@
 title: "Mac n' Cheese"
 description: "Mac n' Cheese ist ein Sättigendes, schnelles Gericht. Perfekt für mehrere Personen."
 draft: false
----
+
 # ── Basis ────────────────────────────────────────────────
 title: "Mac n' Cheese"
 date: 2026-06-18
@@ -36,7 +36,7 @@ instructions:
   - "Optional: Eine Zwiebel würfeln und in Butter rösten. Dies eignet sich hervorragend als Garnierung, um das Gericht abzurunden."
 ---
 
-> «Ideal für Ausflüge. Einfdach Zubereitet, einfach  im transport und es gibt genug Energie für den Tag.» — Linus Cavigelli
+> «Ideal für Ausflüge. Einfdach Zubereitet, einfach  im transport und es gibt genug Energie für den Tag.» — Linus
 
 ## Über dieses Rezept
 

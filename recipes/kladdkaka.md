@@ -38,7 +38,7 @@ instructions:
   - "15-20 Min. im Ofen backen, Mitte sollte immer noch cremig sein."
 ---
 
-> «Hab keine Angst vor einem nicht ganz durchgebackenen Kladdkaka; das ist in Schweden quasi Gesetz.» — Nolan Kolb
+> «Hab keine Angst vor einem nicht ganz durchgebackenen Kladdkaka; das ist in Schweden quasi Gesetz.» — Nolan
 
 ## Über dieses Rezept
 

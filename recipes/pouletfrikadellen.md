@@ -39,7 +39,7 @@ instructions:
   - "Aus der Masse portionsweise Frikadellen formen. Restliches Öl in einer Pfanne erhitzen und die Pouletfrikadellen darin braten."
 ---
 
-> «Schmackofatz»
+> «Schmackofatz» - Leon
 
 ## Über dieses Rezept
 
